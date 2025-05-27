@@ -17,7 +17,7 @@ Unlock the future of computational innovation at the **SGX3 Coding Institute 202
 
 ## Resources
 
-| Title | <div style="width: 130px;">Summary</div> | URL |
+| Title | Summary | URL |
 |-------|---------|-----|
 | Python Full Course for Beginners [2025] | A comprehensive Python course by Programming with Mosh covering Python fundamentals for AI, machine learning, and web development. The course is designed for beginners with a beginner-friendly approach. It includes information about getting PyCharm for free with a coupon code provided in the description. | [https://www.youtube.com/watch?v=_uQrJ0TkZlc](https://www.youtube.com/watch?v=_uQrJ0TkZlc) |
 | Python Exercises - W3Schools | Interactive Python exercises from W3Schools focusing on Python syntax fundamentals. This specific exercise helps beginners practice basic Python syntax through hands-on coding challenges. W3Schools provides immediate feedback on submitted answers, allowing learners to test their understanding of Python programming concepts. | [https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1](https://www.youtube.com/watch?v=_uQrJ0TkZlc) |
