@@ -1,5 +1,5 @@
 
-
+**SGX3 Coding Institute 2025: Your Gateway to Science Gateway Development**
 Unlock the future of computational innovation at the **SGX3 Coding Institute 2025**! Designed for graduate and undergraduate students, this virtual workshop (June 2-27, 2025) dives deep into the art and science of designing and maintaining science gateways. Through a dynamic blend of short tutorials and hands-on exercises, you'll master essential skills via **live coding**—learning directly from experts in real-time.
 
 ## What to Expect
