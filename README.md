@@ -16,6 +16,11 @@ Unlock the future of computational innovation at the **SGX3 Coding Institute 202
 - **Hackathon (June 23-27, 2025)**:  
   Cap off your experience with a thrilling Hackathon! Team up, apply your skills, and tackle real-world challenges in a collaborative, fast-paced environment.
 
+## Zoom Background
+
+<a href="codingInstitute25-zoom.png"><img src="codingInstitute25-zoom.png" width=100px> </a>
+
+
 ## Resources
 
 
