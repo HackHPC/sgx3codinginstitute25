@@ -1,4 +1,4 @@
-- name: "assets/files/Intro_to_Pandas.pdf"
+- name: "Intro_to_Pandas.pdf"
   path: "/assets/files/Intro_to_Pandas.pdf"
-- name: "assets/files/Intro_to_Data_Science.pdf"
+- name: "Intro_to_Data_Science.pdf"
   path: "/assets/files/Intro_to_Data_Science.pdf"
