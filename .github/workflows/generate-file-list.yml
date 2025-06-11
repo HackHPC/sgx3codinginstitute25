@@ -3,7 +3,7 @@ name: Generate File List
 on:
   push:
     paths:
-      - 'assets/files/**'    # adjust path
+      - '/assets/files/**'    # adjust path
       - '.github/workflows/generate-file-list.yml'
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
         id: list_files
         run: |
           echo "listing files in assets/files/"
-          files=$(find assets/files/ -type f | awk '{print "- name: \"" $0 "\"\n  path: \"/" $0 "\""}')
+          files=$(find /assets/files/ -type f | awk '{print "- name: \"" $0 "\"\n  path: \"/" $0 "\""}')
           # wrap in YAML
           printf "%s\n" "$files" > _data/files.yml
 
