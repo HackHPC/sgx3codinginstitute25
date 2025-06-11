@@ -1,6 +1,8 @@
-- name: "assets/files/Intro_to_Pandas.pdf"
+# Auto-generated file list
+---
+- name: "Intro_to_Pandas.pdf"
   path: "/assets/files/Intro_to_Pandas.pdf"
-- name: "assets/files/Pandas-ATX_Traffic_Notebook.ipynb"
+- name: "Pandas-ATX_Traffic_Notebook.ipynb"
   path: "/assets/files/Pandas-ATX_Traffic_Notebook.ipynb"
-- name: "assets/files/Intro_to_Data_Science.pdf"
+- name: "Intro_to_Data_Science.pdf"
   path: "/assets/files/Intro_to_Data_Science.pdf"
