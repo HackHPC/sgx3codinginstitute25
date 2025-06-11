@@ -24,7 +24,7 @@ Unlock the future of computational innovation at the **SGX3 Coding Institute 202
 
 <ul>
   {% for file in site.data.files %}
-    <li><a href="{{ file.path }}">{{ file.name }}</a></li>
+    <li><a href="{{ file.path | relative_url }}">{{ file.name }}</a></li>
   {% endfor %}
 </ul>
 
