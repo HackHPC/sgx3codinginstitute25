@@ -17,10 +17,14 @@ jobs:
       - name: List files
         id: list_files
         run: |
-          echo "listing files in assets/files/"
-          files=$(find assets/files/ -type f | awk '{print "- name: \"" $0 "\"\n  path: \"/" $0 "\""}')
-          # wrap in YAML
-          printf "%s\n" "$files" > _data/files.yml
+          mkdir -p _data
+          echo "# Auto-generated file list" > _data/files.yml
+          echo "---" >> _data/files.yml
+          find assets/files -type f | while read filepath; do
+            filename=$(basename "$filepath")
+            echo "- name: \"$filename\"" >> _data/files.yml
+            echo "  path: \"/$filepath\"" >> _data/files.yml
+          done
 
       - name: Commit updated file list
         uses: stefanzweifel/git-auto-commit-action@v4
