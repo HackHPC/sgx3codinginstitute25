@@ -20,6 +20,14 @@ Unlock the future of computational innovation at the **SGX3 Coding Institute 202
 
 <a href="codingInstitute25-zoom.png"><img src="codingInstitute25-zoom.png" width=100px> </a>
 
+## Files
+
+{% for file in site.static_files %} {% if file.path contains '_files' %}
+
+{{ file.basename }}
+
+ {% endif %} {% endfor %}
+
 
 ## Resources
 
