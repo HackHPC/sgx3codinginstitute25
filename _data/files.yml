@@ -4,5 +4,7 @@
   path: "/assets/files/Intro_to_Pandas.pdf"
 - name: "Pandas-ATX_Traffic_Notebook.ipynb"
   path: "/assets/files/Pandas-ATX_Traffic_Notebook.ipynb"
+- name: "github-git-cheat-sheet.pdf"
+  path: "/assets/files/github-git-cheat-sheet.pdf"
 - name: "Intro_to_Data_Science.pdf"
   path: "/assets/files/Intro_to_Data_Science.pdf"
