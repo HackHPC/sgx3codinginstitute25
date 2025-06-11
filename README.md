@@ -22,11 +22,11 @@ Unlock the future of computational innovation at the **SGX3 Coding Institute 202
 
 ## Files
 
-{% for file in site.static_files %} {% if file.path contains '_files' %}
-
-{{ file.basename }}
-
- {% endif %} {% endfor %}
+<ul>
+  {% for file in site.data.files %}
+    <li><a href="{{ file.path }}">{{ file.name }}</a></li>
+  {% endfor %}
+</ul>
 
 
 ## Resources
