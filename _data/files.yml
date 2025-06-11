@@ -1,4 +1,6 @@
-- name: "Intro_to_Pandas.pdf"
+- name: "assets/files/Intro_to_Pandas.pdf"
   path: "/assets/files/Intro_to_Pandas.pdf"
-- name: "Intro_to_Data_Science.pdf"
+- name: "assets/files/Pandas-ATX_Traffic_Notebook.ipynb"
+  path: "/assets/files/Pandas-ATX_Traffic_Notebook.ipynb"
+- name: "assets/files/Intro_to_Data_Science.pdf"
   path: "/assets/files/Intro_to_Data_Science.pdf"
