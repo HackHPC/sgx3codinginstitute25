@@ -8,5 +8,7 @@
   path: "/assets/files/github-git-cheat-sheet.pdf"
 - name: "Intro_to_Data_Science.pdf"
   path: "/assets/files/Intro_to_Data_Science.pdf"
+- name: "ATX_Traffic_Notebook-Pands2.ipynb"
+  path: "/assets/files/ATX_Traffic_Notebook-Pands2.ipynb"
 - name: "Intro_to_Matplotlib.pdf"
   path: "/assets/files/Intro_to_Matplotlib.pdf"
