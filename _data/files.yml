@@ -6,6 +6,8 @@
   path: "/assets/files/SoftwareDesignPrinciples.pdf"
 - name: "ATX_Traffic_Notebook-6-14-25.ipynb"
   path: "/assets/files/ATX_Traffic_Notebook-6-14-25.ipynb"
+- name: "Setting_Up_Git_to_push_to_GitHub.pdf"
+  path: "/assets/files/Setting_Up_Git_to_push_to_GitHub.pdf"
 - name: "Pandas-ATX_Traffic_Notebook.ipynb"
   path: "/assets/files/Pandas-ATX_Traffic_Notebook.ipynb"
 - name: "github-git-cheat-sheet.pdf"
