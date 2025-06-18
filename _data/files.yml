@@ -18,6 +18,8 @@
   path: "/assets/files/atxtraffic.csv"
 - name: "Intro_to_Data_Science.pdf"
   path: "/assets/files/Intro_to_Data_Science.pdf"
+- name: "How_to_run_Jupyter-Data Science_on_the_CodingInstitute_Server.pdf"
+  path: "/assets/files/How_to_run_Jupyter-Data Science_on_the_CodingInstitute_Server.pdf"
 - name: "ATX_Traffic_Notebook-Pands2.ipynb"
   path: "/assets/files/ATX_Traffic_Notebook-Pands2.ipynb"
 - name: "Intro_to_Matplotlib.pdf"
