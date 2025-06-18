@@ -4,6 +4,8 @@
   path: "/assets/files/Intro_to_Pandas.pdf"
 - name: "SoftwareDesignPrinciples.pdf"
   path: "/assets/files/SoftwareDesignPrinciples.pdf"
+- name: "ATX_Traffic_Notebook-matplot.ipynb"
+  path: "/assets/files/ATX_Traffic_Notebook-matplot.ipynb"
 - name: "ATX_Traffic_Notebook-6-14-25.ipynb"
   path: "/assets/files/ATX_Traffic_Notebook-6-14-25.ipynb"
 - name: "Setting_Up_Git_to_push_to_GitHub.pdf"
