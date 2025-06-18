@@ -14,6 +14,8 @@
   path: "/assets/files/Pandas-ATX_Traffic_Notebook.ipynb"
 - name: "github-git-cheat-sheet.pdf"
   path: "/assets/files/github-git-cheat-sheet.pdf"
+- name: "atxtraffic.csv"
+  path: "/assets/files/atxtraffic.csv"
 - name: "Intro_to_Data_Science.pdf"
   path: "/assets/files/Intro_to_Data_Science.pdf"
 - name: "ATX_Traffic_Notebook-Pands2.ipynb"
