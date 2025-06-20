@@ -6,6 +6,8 @@
   path: "/assets/files/Intro_to_Pandas.pdf"
 - name: "SoftwareDesignPrinciples.pdf"
   path: "/assets/files/SoftwareDesignPrinciples.pdf"
+- name: "Building_redis_hotqueues_app.pdf"
+  path: "/assets/files/Building_redis_hotqueues_app.pdf"
 - name: "ATX_Traffic_Notebook-matplot.ipynb"
   path: "/assets/files/ATX_Traffic_Notebook-matplot.ipynb"
 - name: "ATX_Traffic_Notebook-6-14-25.ipynb"
